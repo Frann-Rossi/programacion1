@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1739794431 source:c:\users\frann\desktop\utn\condicionalesseleccomp\main.c
+	<stdio.h>
+	<stdlib.h>
+

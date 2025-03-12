@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1739558799 source:c:\users\frann\desktop\utn\condicionales\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1741187915 source:c:\users\frann\desktop\utn\tp1\condicionales\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

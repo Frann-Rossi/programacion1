@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1741715116 source:c:\users\frann\desktop\utn\programacion\unidad 1\unidad1pila\unidad1pila\pila.c
+	"pila.h"
+
+1741715120 c:\users\frann\desktop\utn\programacion\unidad 1\unidad1pila\unidad1pila\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1741813153 source:c:\users\frann\desktop\utn\programacion\unidad 1\unidad1pila\unidad1pila\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"pila.h"
+
