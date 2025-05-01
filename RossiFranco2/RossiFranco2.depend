@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1740421668 source:c:\users\frann\desktop\utn\programacion\rossifranco2\pila.c
+	"pila.h"
+
+1740421671 c:\users\frann\desktop\utn\programacion\rossifranco2\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1745369620 source:c:\users\frann\desktop\utn\programacion\rossifranco2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"pila.h"
+

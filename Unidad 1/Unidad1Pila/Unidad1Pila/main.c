@@ -294,6 +294,7 @@ int main()
                 1. Hacer una función que permita ingresar varios elementos a una pila, tanto como quiera el
                 usuario
             */
+
             ingresarNum();
             break;
         }
@@ -459,6 +460,3 @@ int main()
     }
     return 0;
 }
-
-
-
